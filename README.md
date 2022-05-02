@@ -1,1 +1,2 @@
 # Carol-Scout
+We should help scout get to the destination point, we will come across dangers like high ice cube hills and water(where we cannot take or put any ice cube) we are allowed to step +- 1 step up or downwards. s means step, r and l change directions we are facing, n and p puts and takes blocks, we cannot carry more than 10 blocks. There is MiniJava class in order to be able to print the playground. Latter was given by the university KIU.
